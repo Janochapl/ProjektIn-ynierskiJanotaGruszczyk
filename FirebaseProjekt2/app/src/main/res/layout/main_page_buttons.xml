@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/border"
+            android:padding="4dp">
+
+            <ImageView
+                android:id="@+id/imageViewElectronic"
+                android:layout_width="175dp"
+                android:layout_height="175dp"
+                app:srcCompat="@drawable/ic_game"
+                android:layout_centerInParent="true"
+                />
+
+            <TextView
+                android:id="@+id/textViewElectronic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imageViewElectronic"
+                android:layout_centerHorizontal="true"
+                android:text="Electronic"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/border"
+            android:layout_weight="1"
+            android:padding="4dp">
+
+            <ImageView
+                android:id="@+id/imageViewLiterature"
+                android:layout_width="175dp"
+                android:layout_height="175dp"
+                app:srcCompat="@drawable/ic_book"
+                android:layout_centerInParent="true"
+
+                />
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/textViewLiterature"
+                android:text="Literature"
+                android:textSize="20dp"
+                android:layout_below="@+id/imageViewLiterature"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                />
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/border"
+            android:padding="4dp">
+
+            <ImageView
+                android:id="@+id/imageViewFashion"
+                android:layout_width="175dp"
+                android:layout_height="175dp"
+                app:srcCompat="@drawable/ic_fashion"
+                android:layout_centerInParent="true"
+                />
+
+            <TextView
+                android:id="@+id/textViewFashion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imageViewFashion"
+                android:layout_centerHorizontal="true"
+                android:text="Fashion"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/border"
+            android:padding="4dp">
+
+            <ImageView
+                android:id="@+id/imageViewHouse"
+                android:layout_width="175dp"
+                android:layout_height="175dp"
+                app:srcCompat="@drawable/ic_house"
+                android:layout_centerInParent="true"
+                />
+
+            <TextView
+                android:id="@+id/textViewHouse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imageViewHouse"
+                android:layout_centerHorizontal="true"
+                android:text="House"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+    
+</LinearLayout>

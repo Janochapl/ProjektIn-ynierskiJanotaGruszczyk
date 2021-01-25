@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/bar"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/colorPrimary"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+        </androidx.appcompat.widget.Toolbar>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="?attr/actionBarSize"
+        >
+        <RelativeLayout
+            android:id="@+id/productInformations"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            >
+            <ImageView
+                android:id="@+id/imageMainProduct"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+
+                />
+
+            <TextView
+                android:id="@+id/titleMainProduct"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:layout_marginStart="0dp"
+                android:layout_toEndOf="@+id/imageMainProduct"
+                android:paddingLeft="3dp"
+                android:text="Telefon Testowy"
+                android:textSize="8pt"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                />
+
+            <TextView
+                android:id="@+id/infoMainProduct"
+                android:text="opisopisopisopisopisopisopisopisopisopisopisopisopisopisopisopisopisopisopisopis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_toEndOf="@+id/imageMainProduct"
+                android:layout_below="@+id/titleMainProduct"
+                android:textColor="#000000"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/smileWaitingScreen"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_below="@+id/productInformations"
+            android:layout_centerHorizontal="true"
+            android:paddingTop="50dp">
+            <ImageView
+                android:id="@+id/smile"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                app:srcCompat="@drawable/ic_smile"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/smile"
+                android:layout_centerHorizontal="true"
+                android:text="We are looking for the best prices for you, please wait!"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:textColor="#000000"
+                />
+
+        </RelativeLayout>
+
+
+
+
+
+
+
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/productInformations"
+            android:clipToPadding="false"
+            android:padding="4dp"
+            tools:listitem="@layout/recycler_item"
+            android:visibility="invisible"/>
+
+        <ProgressBar
+            android:id="@+id/progressBarPrice"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+
+            android:visibility="visible"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>
