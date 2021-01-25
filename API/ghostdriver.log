@@ -1,0 +1,260 @@
+[INFO  - 2020-12-06T15:58:42.179Z] GhostDriver - Main - running on port 52004
+[INFO  - 2020-12-06T15:58:44.287Z] Session [eadf99a0-37db-11eb-ac44-6536ab61b01d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-12-06T15:58:44.287Z] Session [eadf99a0-37db-11eb-ac44-6536ab61b01d] - page.customHeaders:  - {}
+[INFO  - 2020-12-06T15:58:44.287Z] Session [eadf99a0-37db-11eb-ac44-6536ab61b01d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-12-06T15:58:44.287Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: eadf99a0-37db-11eb-ac44-6536ab61b01d
+[INFO  - 2020-12-06T16:03:42.190Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T16:08:42.197Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T16:13:42.207Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T16:18:42.219Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T16:23:42.235Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T16:28:42.235Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T16:33:42.249Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T16:38:42.255Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T16:43:42.263Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T16:48:42.263Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T16:53:42.266Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T16:58:42.266Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T17:03:42.266Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T17:08:42.266Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T17:13:42.281Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T17:18:42.284Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T17:23:42.295Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T17:28:42.295Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T17:33:42.303Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T17:38:42.305Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T17:43:42.316Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T17:48:42.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T17:53:42.330Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T17:58:42.330Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T18:03:42.332Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T18:08:42.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T18:13:42.339Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T18:18:42.355Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T18:23:42.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T18:28:42.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T18:33:42.371Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T18:38:42.372Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T18:43:42.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T18:48:42.380Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T18:53:42.387Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T18:58:42.400Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T19:03:42.411Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T19:08:42.414Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T19:13:42.422Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T19:18:42.425Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T19:23:42.439Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T19:28:42.441Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T19:33:42.451Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T19:38:42.451Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T19:43:42.451Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T19:48:42.451Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T19:53:42.459Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T19:58:42.459Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T20:03:42.462Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T20:08:42.462Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T20:13:42.464Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-06T20:18:42.479Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-07T16:00:27.184Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-07T16:05:27.185Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-07T16:10:27.205Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-07T16:15:27.205Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-07T16:20:30.006Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-07T16:25:30.014Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-07T16:30:30.014Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-07T16:35:30.025Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-07T16:40:30.024Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-07T16:45:30.043Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-07T16:50:30.048Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-07T16:55:30.049Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-07T17:00:30.056Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-07T17:05:30.071Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T00:14:30.529Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T00:19:30.939Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T00:24:30.945Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T00:29:30.945Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T00:34:30.945Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T00:39:30.961Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T00:44:30.961Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T00:49:30.961Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T00:54:30.962Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T00:59:30.968Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T01:04:30.971Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T01:09:30.983Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T01:14:30.992Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T01:19:31.006Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T01:24:31.014Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T17:11:56.541Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-12-08T17:11:57.392Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2020-12-08T17:12:10.396Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - msg: TypeError: Attempting to configurable attribute of unconfigurable property.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.396Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - stack:
+  defineProperty (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  handler (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  dispatchEvent (:0)
+  dispatch (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+  forEach (:0)
+  addCustomUserAttributesToPayload (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  getUserEventData (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.398Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - msg: TypeError: Attempting to configurable attribute of unconfigurable property.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.398Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - stack:
+  defineProperty (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  handler (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  dispatchEvent (:0)
+  dispatch (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+  forEach (:0)
+  addCustomUserAttributesToPayload (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  getUserEventData (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.398Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - msg: TypeError: Attempting to configurable attribute of unconfigurable property.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.398Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - stack:
+  defineProperty (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  handler (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  dispatchEvent (:0)
+  dispatch (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+  forEach (:0)
+  addCustomUserAttributesToPayload (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  getUserEventData (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.399Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - msg: TypeError: Attempting to configurable attribute of unconfigurable property.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.399Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - stack:
+  defineProperty (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  handler (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  dispatchEvent (:0)
+  dispatch (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+  forEach (:0)
+  addCustomUserAttributesToPayload (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  getUserEventData (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.400Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - msg: TypeError: Attempting to configurable attribute of unconfigurable property.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.400Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - stack:
+  defineProperty (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  handler (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  dispatchEvent (:0)
+  dispatch (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+  forEach (:0)
+  addCustomUserAttributesToPayload (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  getUserEventData (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.400Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - msg: TypeError: Attempting to configurable attribute of unconfigurable property.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.400Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - stack:
+  defineProperty (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  handler (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  dispatchEvent (:0)
+  dispatch (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+  forEach (:0)
+  addCustomUserAttributesToPayload (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  getUserEventData (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.401Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - msg: TypeError: Attempting to configurable attribute of unconfigurable property.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.401Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - stack:
+  defineProperty (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  handler (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  dispatchEvent (:0)
+  dispatch (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+  forEach (:0)
+  addCustomUserAttributesToPayload (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  getUserEventData (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.401Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - msg: TypeError: Attempting to configurable attribute of unconfigurable property.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.401Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - stack:
+  defineProperty (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  handler (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  dispatchEvent (:0)
+  dispatch (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  addCustomUserAttributesToPayload (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  getUserEventData (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.402Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - msg: TypeError: Attempting to configurable attribute of unconfigurable property.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-08T17:12:10.402Z] Session [70eabe90-37db-11eb-8021-a37280648cc3] - page.onError - stack:
+  defineProperty (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  handler (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  dispatchEvent (:0)
+  dispatch (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  getUserEventData (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (https://mediamarktpl.api.useinsider.com/ins.js?id=10000734:1)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
